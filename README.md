@@ -1,6 +1,9 @@
 # Revenue-Insights-in-the-Hospitslity-Industry
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTU2MzNiYmEtNTk3YS00YzA3LWFlM2EtMDI4YWM3NTA2OTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTU2MzNiYmEtNTk3YS00YzA3LWFlM2EtMDI4YWM3NTA2OTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+[LinkedIn Post]()
+
 
 Greetings, everyone!
 
