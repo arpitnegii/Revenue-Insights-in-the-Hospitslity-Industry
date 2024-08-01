@@ -1,8 +1,8 @@
-# Revenue-Insights-in-the-Hospitslity-Industry
+# AtliQ Hospitality Revenue Insights
 
 [Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTU2MzNiYmEtNTk3YS00YzA3LWFlM2EtMDI4YWM3NTA2OTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[LinkedIn Post]()
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7224713793619079169/)
 
 
 Greetings, everyone!
@@ -22,6 +22,8 @@ I've successfully completed a fascinating project in the hospitality domain, and
 𝗗𝗕𝗥𝗡 (Daily Booked Room Nights): Tracking daily room bookings.
 
 𝗗𝗦𝗥𝗡 (Daily Sellable Room Nights): The number of rooms available for sale each day.
+
+
 
 𝗗𝗨𝗥𝗡 (Daily Utilized Room Nights): Insights into the number of rooms utilized by customers daily.
 
